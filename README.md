@@ -5,7 +5,7 @@
 [![Twitter][Twitter]][Twitter-url]
 [![Steam][Steam]][Steam-url]
 
-### Hi there, welcome to my GitHub Profile!
+### 👋Hi there, welcome to my GitHub Profile!
 - 🙍‍♂️My name is Niklas
 - 🔎I'm a CS student from Cologne, Germany
 
